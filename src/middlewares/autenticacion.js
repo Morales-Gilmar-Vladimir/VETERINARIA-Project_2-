@@ -18,6 +18,9 @@ if(!req.headers.authorization) return res.status(404).json({msg:"Lo sentimos, de
             req.veterinarioBDD = await Veterinario.findById(id).lean().select("-password")
             // CONTINAR EL PROCESO
             next()
+        }else{
+            req.pacienteBDD = await Paciente.findById(id).lean().select("-password")
+            next()
         }
     } catch (error) {
         // CAPTURAR ERRORES Y PRESENTARLOS
