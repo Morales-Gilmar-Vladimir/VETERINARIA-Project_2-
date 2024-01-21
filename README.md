@@ -10,7 +10,7 @@
 ## SPRINT 1 (MODULO VETERINARIO)
 ![WhatsApp Image 2024-01-08 at 16 38 09](https://github.com/Morales-Gilmar-Vladimir/VETERINARIA-Project_2-/assets/117743690/88a211b1-36d1-481a-a97c-f8944d42d068)
 
-##SPRINT 2 (MODULO PACIENTE)
+## SPRINT 2 (MODULO PACIENTE)
 
 ![WhatsApp Image 2024-01-16 at 15 30 40](https://github.com/Morales-Gilmar-Vladimir/VETERINARIA-Project_2-/assets/117743690/5376d907-d3de-41bb-afde-c7fc4aa10e6e)
 ![WhatsApp Image 2024-01-16 at 15 30 40 (1)](https://github.com/Morales-Gilmar-Vladimir/VETERINARIA-Project_2-/assets/117743690/f2a507a4-ae38-40a1-b884-ff43903ab5a0)
